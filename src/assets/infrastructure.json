@@ -1,0 +1,37 @@
+{
+    "profile": {
+      "setting": {
+        "dialogTitle": "Eddit Number",
+        "phoneNumber": "Number",
+        "saveText": "Save",
+        "closeText": "Close",
+        "successMessage": "Chenge Number"
+      }
+    },
+    "unauthorized": {
+      "login": {
+        "email": "Email",
+        "password": "Password",
+        "enterEmail": "Enter email",
+        "enterValidEmail": "Ivalid email ",
+        "enterRequiredEmail": "enterRequiredEmail",
+        "enterPassword": "enterPassword",
+        "enterRequiredPhon": "Enter Required Phon",
+        "RBP": "Snapp Express",
+        "login": "login",
+        "descriptionLogin":"The largest store cover in Iran at the disposal of Snanp Express",
+        "descriptionPanele1":"Snapp Express",
+        "RememberMe": "RememberMe",
+        "ForgotPassword": "ForgotPassword",
+        "DonotAccount": "DonotAccount",
+        "SendCode": "SendCode ",
+        "verificationcode": "verificationcode",
+        "verificationcodes": "verificationcode",
+        "submissionCode": "submit Code :",
+        "editNumber": " Edit Number"
+      
+      }
+    }
+   
+  }
+  
